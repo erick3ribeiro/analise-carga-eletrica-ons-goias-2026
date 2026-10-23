@@ -91,4 +91,14 @@ Os dados utilizados no projeto são referentes à carga elétrica de Goiás. A d
 
 ![Dados e tabela](Dados_e_Tabela.png)
 
+## 🎬 Demonstração em vídeo
+
+Assista à demonstração do dashboard **Análise da Carga Elétrica — Goiás 2026**, desenvolvido no Power BI com dados do Operador Nacional do Sistema Elétrico (ONS).
+
+O vídeo apresenta a navegação entre as três páginas analíticas, os principais indicadores e os recursos de visualização do projeto.
+
+[![Assistir à demonstração do dashboard](https://img.youtube.com/vi/l17zwgMBU1M/maxresdefault.jpg)](https://youtu.be/l17zwgMBU1M)
+
+▶️ **[Clique aqui para assistir à demonstração completa](https://youtu.be/l17zwgMBU1M)**
+
 **Projeto de portfólio em Engenharia Elétrica, Business Intelligence e Análise de Dados.**
