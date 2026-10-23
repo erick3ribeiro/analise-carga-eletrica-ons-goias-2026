@@ -76,6 +76,19 @@ Os dados utilizados no projeto são referentes à carga elétrica de Goiás. A d
 - [ ] Desenvolvimento da versão HTML interativa.
 - [ ] Publicação no GitHub Pages.
 
----
+
+## 🖥️ Demonstração visual do dashboard
+
+### 📊 Visão Geral
+
+![Visão Geral](visao_geral.png)
+
+### 📈 Análise detalhada
+
+![Análise detalhada](Analise_detalhada.png)
+
+### 📋 Dados e tabela
+
+![Dados e tabela](Dados_e_Tabela.png)
 
 **Projeto de portfólio em Engenharia Elétrica, Business Intelligence e Análise de Dados.**
