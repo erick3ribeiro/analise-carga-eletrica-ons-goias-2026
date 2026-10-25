@@ -114,11 +114,4 @@ As medidas abaixo integram os indicadores do relatório. Suas expressões devem 
 
 > Os resultados acima são os valores apresentados na captura do dashboard e podem variar conforme os filtros selecionados. A precisão dos cálculos deve ser conferida com as medidas e os dados do arquivo Power BI original.
 
-## Validação técnica pendente
-
-1. Verificar e registrar as expressões DAX das cinco medidas assinaladas como pendentes.
-2. Verificar os tipos de dados e a conversão para `DataHora_Goias`.
-3. Conferir a definição de continuidade temporal usada no cálculo de variação de 30 minutos.
-4. Validar os resultados das medidas contra os cartões e gráficos do relatório original.
-
 **Fonte de dados:** [Operador Nacional do Sistema Elétrico — ONS](https://dados.ons.org.br/).
