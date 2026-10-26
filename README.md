@@ -19,7 +19,13 @@ Transformar dados do setor elétrico em informações claras, organizadas e aces
 - **Modelagem de dados:** organização dos dados para análise.
 - **GitHub:** versionamento e documentação do projeto.
 - **GitHub Pages:** publicação futura de uma versão web interativa.
+## 📚 Documentação técnica
 
+O projeto possui documentação específica sobre as medidas analíticas, as transformações realizadas no Power Query e a estrutura do modelo semântico.
+
+- 📊 [Medidas DAX](MEDIDAS_DAX_revisado.md) — Indicadores, cálculos e expressões DAX utilizados no dashboard.
+- 🔄 [Power Query](POWER_QUERY.md) — Conexão com a API do ONS, tratamento dos dados e adequação temporal.
+- 🗂️ [Modelagem de Dados](MODELAGEM_DADOS.md) — Estrutura da tabela, colunas calculadas e organização do modelo semântico.
 ## 📊 Principais indicadores
 
 O dashboard apresenta:
